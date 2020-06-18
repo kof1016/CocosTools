@@ -1,0 +1,9 @@
+{
+    "BuildIndexHtmlPath": "../../../repository/GlorySibo/build/web-mobile/index.html",
+    "ServerIP": "35.221.229.129",
+    "WebIP": "34.80.244.10:8106",
+    "TemplatePath": "../../../repository/GlorySibo/发布/",
+    "TargetPath": "../../../repository/GlorySibo/build/web-mobile/",
+    "BuildScriptPath": "../../../repository/GlorySibo/build/web-mobile/src/",
+    "HTMLTitle": "Red88-Game"
+}
